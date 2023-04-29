@@ -1,5 +1,6 @@
 # Ecommerce--ml-problem\
-###A practice notebook where i try to make sense of the  dataset by doing the following:
+### A practice notebook where i try to make sense of the  dataset by doing the following:
+
        *What is the best selling category?
        *Visualize payment method and order status
        *Find correlation between payment method and order status
